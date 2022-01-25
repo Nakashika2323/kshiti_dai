@@ -1,0 +1,47 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: "Poppins", "Helvetica";
+  text-align: center;
+  place-content: center;
+}
+
+img {
+  height: 300px;
+}
+
+.fa {
+  font-size: 40px;
+  width: 40px;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.5;
+  color: rgb(68, 64, 64);
+}
+
+.links {
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+
+.links:hover {
+  opacity: 0.5;
+  color: rgb(68, 64, 64);
+}
+
+.align {
+  margin: 0 auto;
+  max-width: 900px;
+  text-align: left;
+}
+
+hr {
+  max-width: 900px;
+}
